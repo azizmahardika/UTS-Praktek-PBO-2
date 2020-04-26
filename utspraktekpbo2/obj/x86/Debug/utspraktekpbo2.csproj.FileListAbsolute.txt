@@ -1,0 +1,4 @@
+C:\Users\kotacom\Documents\Visual Studio\utspraktekpbo2\utspraktekpbo2\bin\Debug\utspraktekpbo2.exe
+C:\Users\kotacom\Documents\Visual Studio\utspraktekpbo2\utspraktekpbo2\bin\Debug\utspraktekpbo2.pdb
+C:\Users\kotacom\Documents\Visual Studio\utspraktekpbo2\utspraktekpbo2\obj\x86\Debug\utspraktekpbo2.exe
+C:\Users\kotacom\Documents\Visual Studio\utspraktekpbo2\utspraktekpbo2\obj\x86\Debug\utspraktekpbo2.pdb
